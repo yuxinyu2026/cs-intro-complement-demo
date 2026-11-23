@@ -36,7 +36,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<你的用户名>/cs-intro-complement-demo.git
+git clone https://github.com/yuxinyu2026/cs-intro-complement-demo.git
 
 # 2. 进入目录
 cd cs-intro-complement-demo
@@ -68,7 +68,7 @@ python tests/verify.py 16    # 16 位抽样对拍
 
 ## 五、仓库与协作记录
 
-**仓库地址**：`https://github.com/<你的用户名>/cs-intro-complement-demo`（Public）
+**仓库地址**：`https://github.com/yuxinyu2026/cs-intro-complement-demo`（Public）
 
 **分支记录**
 
