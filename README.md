@@ -4,6 +4,29 @@
 > 用 Python + tkinter 把"原码 → 反码 → 补码"的求补过程、按位加法的进位传播、
 > 双符号位溢出判定完整展开成可单步播放的动画，帮助初学者看清机器到底怎么算加法。
 
+---
+
+> ## ⚠️ 提交前必读（所有组员，2026-11-27 起生效）
+>
+> **1. 不许直接改 `main`。** 任何改动都要走分支：
+> ```bash
+> git checkout main && git pull
+> git checkout -b docs/你的名字-做的事情     # 或 feature/xxx
+> # 改文件 → git add . → git commit → git push -u origin 分支名
+> ```
+> 推完去 GitHub 点 **Compare & pull request**，由组长 Review 后合并。
+>
+> **2. commit 信息格式**：`docs:` / `feat:` / `fix:` / `design:` / `test:` + **中文简述**。
+> ❌ 禁止：`Update xxx`、`修改`、`123`、`aaa`。
+>
+> **3. 合并只能组长做，方式选 `Merge commit`（不要 Squash）。**
+>
+> 完整流程与冲突处理见 [docs/团队协作手册.md](docs/团队协作手册.md)。
+>
+> **已经误推过 main 的**：不要 revert，立刻补一次规范的「分支 + PR」即可。
+
+---
+
 ![主界面](images/main_ui.png)
 ![运行结果](images/running_result.png)
 
